@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thilakag
 - 👀 I’m interested in ..cybersecurity and Cloud
-- 🌱 I’m currently learning ..security.
+- 🌱 I’m currently learning .. GCP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...9845310928
 
